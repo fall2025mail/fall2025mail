@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👩‍💻 Dana Mohamed  
-### Network Engineer | Aspiring DevOps Engineer 🚀  
+### Network & Systems Engineer | IT Infrastructure 🚀  
 
 📍 El Mansoura, Egypt  
 📧 danabelal@std.mans.edu.eg  
@@ -13,57 +13,60 @@
 
 ## 🌟 About Me  
 
-I'm a **Computer & Communications Engineer** passionate about **DevOps, Cloud, and Automation**.  
-I have hands-on experience with containerization, CI/CD pipelines, and Linux systems, and I'm eager to grow in real-world DevOps environments.
+I'm a **Network & Systems Engineer** trained through an intensive **420-hour NTI program**, with strong hands-on experience in enterprise networking, system administration, and infrastructure security.
 
-- 💼 Aspiring **DevOps Intern**  
-- 🐧 Linux & Automation Enthusiast  
-- ☁️ Interested in Cloud & Infrastructure  
-- 📈 Always learning and improving  
+I’m passionate about building reliable, secure, and scalable IT environments and continuously improving my technical and professional skills.
+
+- 🌐 Network Engineering  
+- 🖥️ Systems Administration  
+- 🔐 Infrastructure Security  
+- 🤖 Python Automation  
+- 📈 Continuous Learning  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-### 🚀 DevOps & Cloud
-- Docker (Images, Containers, Volumes, Logs)
-- Kubernetes (Pods, Deployments, Services)
-- CI/CD (GitHub Actions, GitLab CI basics)
-- Cloud Basics (IAM, VMs, Regions)
+### 🌐 Networking
+- VLANs, STP, EtherChannel  
+- OSPF, EIGRP, BGP, MPLS, DMVPN  
+- Route Redistribution  
+- IPv4 / IPv6  
 
-### 💻 Systems & Automation
-- Linux Administration
-- Networking Basics
-- Python Automation Scripts
+### 🔐 Security
+- AAA, ACLs, Port Security  
+- DHCP Snooping, BPDU Guard  
+- Infrastructure Hardening  
 
-### 📚 Collaboration
-- Documentation
-- Teamwork
-- Operational Procedures
+### 🖥️ Systems Administration
+- Linux (RedHat): systemd, SSH, users/groups, networking  
+- Windows Server: AD DS, DNS, DHCP, GPO, Clustering  
 
----
+### 🤖 Automation
+- Python (PCAP Certified Level)  
+- OOP, Modules, File Handling  
+- Basic Network Automation  
 
-## 📌 Tools & Technologies  
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+### ⚙️ Tools
+- Packet Tracer  
+- GNS3  
+- Simulation & Emulation Labs  
 
 ---
 
-## 🧪 Practical Experience  
+## 🎯 Professional Training  
 
-### 🏗️ DevOps Foundations (Self-Learned)
+### 🏫 National Telecommunication Institute (NTI) — 420 Hours
 
-- Built containerized applications using Docker
-- Deployed applications on Kubernetes cluster
-- Created basic CI/CD pipelines
-- Studied cloud concepts (VMs, Containers, IAM)
-- Wrote documentation for setups and troubleshooting
+| Track | Hours | Topics |
+|-------|-------|--------|
+| Linux Admin | 35h | Shell, Firewall, Services |
+| Windows Server | 84h | AD, DNS, GPO, DR |
+| Python PCAP | 35h | OOP, Automation |
+| CCNP ENCOR | 70h | Routing, Switching |
+| CCNP ENARSI | 70h | MPLS, DMVPN, Security |
+| Career Skills | 132h | Leadership, English |
+| Project Mgmt | 14h | WBS, Risk |
 
 ---
 
@@ -77,7 +80,19 @@ Mansoura University (2020–2025)
 
 ## 📜 Certifications  
 
-- ✅ AWS Cloud Foundations
+- ✅ Cisco CyberOps Associate  
+- ✅ AWS Cloud Foundations  
+- 🎯 Training aligned with CCNP ENCOR/ENARSI, MCSA, RHCSA  
+
+---
+
+## 💡 Soft Skills  
+
+- Communication  
+- Teamwork  
+- Leadership  
+- Problem Solving  
+- Presentation Skills  
 
 ---
 
@@ -97,6 +112,6 @@ Mansoura University (2020–2025)
 
 <div align="center">
 
-✨ *"Building reliable systems, one pipeline at a time."* ✨  
+✨ *"Designing secure networks. Managing reliable systems."* ✨  
 
 </div>

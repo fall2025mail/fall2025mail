@@ -105,7 +105,7 @@ Mansoura University (2020–2025)
 
 ## 📫 Contact Me  
 
-📧 Email: danabelal@std.mans.edu.eg  
+📧 Email: fall2025mail@gmail.com
 💼 LinkedIn: [Dana Mohamed](https://linkedin.com/in/dana-mohamed-ss025)
 
 ---

@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="40%" />
+
 # 👩‍💻 Dana Mohamed  
 ### Network & Systems Engineer | IT Infrastructure 🚀  
 
 📍 El Mansoura, Egypt  
-📧 danabelal@std.mans.edu.eg  
+📧 fall2025mail@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/dana-mohamed-ss025)
 
 </div>
@@ -13,9 +15,7 @@
 
 ## 🌟 About Me  
 
-I'm a **Network & Systems Engineer** trained through an intensive **420-hour NTI program**, with strong hands-on experience in enterprise networking, system administration, and infrastructure security.
-
-I’m passionate about building reliable, secure, and scalable IT environments and continuously improving my technical and professional skills.
+💡 Network & Systems Engineer trained through intensive NTI program with strong hands-on experience in enterprise infrastructure.
 
 - 🌐 Network Engineering  
 - 🖥️ Systems Administration  
@@ -25,48 +25,94 @@ I’m passionate about building reliable, secure, and scalable IT environments a
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
 ### 🌐 Networking
 - VLANs, STP, EtherChannel  
 - OSPF, EIGRP, BGP, MPLS, DMVPN  
-- Route Redistribution  
 - IPv4 / IPv6  
 
 ### 🔐 Security
 - AAA, ACLs, Port Security  
 - DHCP Snooping, BPDU Guard  
-- Infrastructure Hardening  
 
-### 🖥️ Systems Administration
-- Linux (RedHat): systemd, SSH, users/groups, networking  
-- Windows Server: AD DS, DNS, DHCP, GPO, Clustering  
+### 🖥️ Systems
+- Linux (RedHat, SSH, systemd)  
+- Windows Server (AD, DNS, GPO, DHCP)  
 
 ### 🤖 Automation
-- Python (PCAP Certified Level)  
-- OOP, Modules, File Handling  
-- Basic Network Automation  
-
-### ⚙️ Tools
-- Packet Tracer  
-- GNS3  
-- Simulation & Emulation Labs  
+- Python (PCAP Level)  
+- Network Automation  
 
 ---
 
-## 🎯 Professional Training  
+## ⚙️ Tools  
 
-### 🏫 National Telecommunication Institute (NTI) — 420 Hours
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-| Track | Hours | Topics |
-|-------|-------|--------|
-| Linux Admin | 35h | Shell, Firewall, Services |
-| Windows Server | 84h | AD, DNS, GPO, DR |
-| Python PCAP | 35h | OOP, Automation |
-| CCNP ENCOR | 70h | Routing, Switching |
-| CCNP ENARSI | 70h | MPLS, DMVPN, Security |
-| Career Skills | 132h | Leadership, English |
-| Project Mgmt | 14h | WBS, Risk |
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fall2025mail&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fall2025mail&theme=tokyonight" width="48%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fall2025mail&layout=compact&theme=tokyonight" width="40%" />
+
+</div>
+
+
+---
+
+## 🧪 Projects & Labs  
+
+### 🖧 GNS3 Network Labs
+📌 Enterprise Network Simulation  
+- OSPF / EIGRP / BGP  
+- VLAN / Inter-VLAN  
+- ACLs / Security  
+
+🔗 Repo: https://github.com/fall2025mail/gns3-labs  
+
+---
+
+### 🚀 CCNP ENCOR Labs
+📌 Advanced Routing & Switching  
+- Redistribution  
+- MPLS  
+- DMVPN  
+- IPv6  
+
+🔗 Repo: https://github.com/fall2025mail/ccnp-labs  
+
+---
+
+### 🐧 Linux & Server Labs
+📌 System Administration Practice  
+- AD DS  
+- DNS / DHCP  
+- GPO  
+- Backup & DR  
+
+🔗 Repo: https://github.com/fall2025mail/linux-server-labs  
+
+---
+
+### 🤖 Python Automation
+📌 Network Automation Scripts  
+- Backup configs  
+- Log analysis  
+- Monitoring  
+
+🔗 Repo: https://github.com/fall2025mail/python-network  
 
 ---
 
@@ -80,19 +126,18 @@ Mansoura University (2020–2025)
 
 ## 📜 Certifications  
 
-- ✅ Cisco CyberOps Associate  
-- ✅ AWS Cloud Foundations  
-- 🎯 Training aligned with CCNP ENCOR/ENARSI, MCSA, RHCSA  
+✅ Cisco CyberOps Associate  
+✅ AWS Cloud Foundations  
+🎯 CCNP / RHCSA Track  
 
 ---
 
 ## 💡 Soft Skills  
 
-- Communication  
-- Teamwork  
-- Leadership  
-- Problem Solving  
-- Presentation Skills  
+✔ Communication  
+✔ Teamwork  
+✔ Leadership  
+✔ Problem Solving  
 
 ---
 
@@ -105,13 +150,15 @@ Mansoura University (2020–2025)
 
 ## 📫 Contact Me  
 
-📧 Email: fall2025mail@gmail.com
-💼 LinkedIn: [Dana Mohamed](https://linkedin.com/in/dana-mohamed-ss025)
+📧 fall2025mail@gmail.com 
+💼 LinkedIn: https://linkedin.com/in/dana-mohamed-ss025  
 
 ---
 
 <div align="center">
 
-✨ *"Designing secure networks. Managing reliable systems."* ✨  
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25%" />
+
+✨ *Designing secure networks. Managing reliable systems.* ✨  
 
 </div>

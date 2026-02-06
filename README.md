@@ -59,12 +59,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fall2025mail&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fall2025mail&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fall2025mail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=fall2025mail&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fall2025mail&layout=compact&theme=tokyonight" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fall2025mail&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
 
 </div>
 

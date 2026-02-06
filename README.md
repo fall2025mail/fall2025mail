@@ -3,8 +3,7 @@
 
 # 👩‍💻 Dana Mohamed  
 ### Network & Systems Engineer | IT Infrastructure 🚀  
-
-📍 El Mansoura, Egypt  
+ 
 📧 fall2025mail@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/dana-mohamed-ss025)
 

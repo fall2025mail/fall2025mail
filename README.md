@@ -151,6 +151,7 @@ Mansoura University (2020–2025)
 ## 📫 Contact Me  
 
 📧 fall2025mail@gmail.com
+
 💼 LinkedIn: https://linkedin.com/in/dana-mohamed-ss025  
 
 ---
